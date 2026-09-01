@@ -56,7 +56,7 @@ RiskLens/
 
 ```bash
 # clone the repo
-git clone https://github.com/<your-username>/RiskLens.git
+git clone https://github.com/Jitin2102/RiskLens.git
 cd RiskLens
 
 # install dependencies
