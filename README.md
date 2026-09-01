@@ -30,7 +30,7 @@ It's built for two audiences:
 
 - **FastAPI** — API layer and request validation
 - **Pydantic** — input schema, field constraints, and computed features
-- **scikit-learn** *(update if different)* — model training
+- **scikit-learn**  — model training
 
 ## Project structure
 
