@@ -1,0 +1,101 @@
+age,weight,height,income_lpa,smoker,city,occupation,insurance_premium_category
+56,88.7,1.93,31.7,No,Hyderabad,Product Manager,Medium
+69,71.0,1.81,0.0,No,Bangalore,Unemployed,Medium
+46,87.5,1.71,0.0,No,Bangalore,Unemployed,Medium
+32,83.1,1.74,0.0,No,Mumbai,Unemployed,Medium
+60,73.1,1.6,3.4,No,Hyderabad,Retired,Medium
+60,48.3,1.6,2.3,No,Mumbai,Retired,Medium
+38,54.6,1.51,9.8,No,Mumbai,Data Scientist,Low
+56,81.1,1.56,13.4,No,Mumbai,Product Manager,High
+36,44.3,1.76,0.0,No,Delhi,Unemployed,Low
+60,71.8,1.61,6.0,No,Delhi,Retired,Medium
+28,85.0,1.75,10.1,No,Mumbai,Data Scientist,Medium
+28,72.3,1.83,10.8,No,Hyderabad,Analyst,Low
+41,61.0,1.72,14.3,No,Bangalore,Data Scientist,Medium
+70,57.3,1.76,14.0,No,Hyderabad,Retired,Medium
+53,82.2,1.61,7.6,No,Pune,Mechanical Engineer,High
+57,77.1,1.69,38.6,No,Delhi,Mechanical Engineer,Medium
+41,65.7,1.85,0.0,No,Bangalore,Unemployed,Medium
+20,86.0,1.59,14.0,No,Bangalore,Mechanical Engineer,Medium
+39,82.8,1.8,0.0,No,Pune,Unemployed,Medium
+70,96.8,1.87,0.0,No,Pune,Unemployed,Medium
+60,78.5,1.75,5.6,No,Mumbai,Retired,Medium
+41,67.5,1.53,17.5,No,Delhi,Mechanical Engineer,Medium
+61,67.9,1.73,0.0,No,Delhi,Unemployed,Medium
+47,41.0,1.69,3.5,No,Hyderabad,Product Manager,Medium
+55,72.3,1.75,9.5,No,Mumbai,Analyst,Medium
+19,69.8,1.77,13.2,Yes,Mumbai,Data Scientist,High
+38,50.0,1.62,12.2,No,Mumbai,Data Scientist,Low
+60,69.6,1.62,5.8,No,Mumbai,Retired,Medium
+29,90.1,1.68,38.9,No,Delhi,Mechanical Engineer,Medium
+39,59.0,1.6,15.6,No,Delhi,Mechanical Engineer,Low
+61,55.6,1.72,0.0,No,Mumbai,Unemployed,Medium
+42,86.6,1.69,13.3,No,Hyderabad,Software Engineer,Medium
+66,79.5,1.96,0.0,Yes,Bangalore,Unemployed,High
+44,115.9,1.6,16.8,No,Bangalore,Analyst,Medium
+59,50.2,1.62,19.1,No,Hyderabad,Product Manager,Medium
+45,80.8,1.74,36.1,No,Mumbai,Data Scientist,Medium
+33,74.7,1.79,0.0,No,Delhi,Unemployed,Low
+32,70.9,1.93,10.4,Yes,Bangalore,Software Engineer,High
+64,83.7,1.86,15.9,Yes,Pune,Software Engineer,High
+68,69.6,1.78,0.0,No,Pune,Unemployed,Medium
+61,41.0,1.73,5.0,No,Hyderabad,Retired,Medium
+72,57.3,1.79,23.0,No,Mumbai,Data Scientist,Medium
+69,90.5,1.64,2.5,No,Bangalore,Retired,High
+74,87.6,1.67,7.2,No,Mumbai,Product Manager,High
+20,64.4,1.55,8.8,No,Bangalore,Software Engineer,Medium
+54,77.6,1.68,5.7,No,Hyderabad,Software Engineer,Medium
+68,111.8,1.8,13.0,No,Hyderabad,Analyst,High
+24,69.5,1.68,9.4,Yes,Pune,Product Manager,High
+38,69.8,1.62,25.5,No,Mumbai,Software Engineer,Medium
+26,72.9,1.66,5.6,Yes,Pune,Product Manager,High
+56,79.1,1.77,31.0,No,Mumbai,Data Scientist,Medium
+35,64.8,1.67,6.8,Yes,Pune,Mechanical Engineer,High
+21,79.1,1.78,5.8,No,Delhi,Software Engineer,Low
+42,40.8,1.57,7.4,No,Delhi,Analyst,Medium
+31,75.0,1.61,39.3,No,Delhi,Data Scientist,Medium
+67,70.8,1.65,0.0,No,Delhi,Unemployed,Medium
+26,66.7,1.57,16.7,No,Bangalore,Product Manager,Medium
+43,62.9,1.99,0.0,No,Delhi,Unemployed,Medium
+70,60.9,1.59,3.4,No,Hyderabad,Retired,Medium
+19,57.8,1.79,9.0,Yes,Hyderabad,Data Scientist,High
+37,35.2,1.63,0.0,No,Bangalore,Unemployed,Low
+45,66.0,1.65,16.4,No,Delhi,Software Engineer,Medium
+64,86.4,1.73,33.3,No,Delhi,Product Manager,Medium
+24,65.0,1.55,4.0,No,Delhi,Mechanical Engineer,Medium
+61,79.5,1.63,32.0,Yes,Pune,Data Scientist,High
+25,53.8,1.69,16.7,Yes,Mumbai,Software Engineer,High
+64,50.4,1.62,9.8,No,Pune,Analyst,Medium
+60,58.7,1.62,2.6,No,Mumbai,Retired,Medium
+31,54.6,1.81,22.8,No,Delhi,Product Manager,Low
+34,52.3,1.8,14.0,No,Delhi,Data Scientist,Low
+53,76.7,1.66,4.9,Yes,Pune,Data Scientist,High
+67,96.7,1.69,15.1,No,Pune,Mechanical Engineer,High
+57,60.0,1.82,24.2,No,Mumbai,Mechanical Engineer,Medium
+21,44.6,1.56,20.4,Yes,Hyderabad,Analyst,High
+60,79.9,1.73,2.5,No,Mumbai,Retired,Medium
+23,48.5,1.9,5.4,No,Pune,Analyst,Low
+71,52.3,1.9,10.0,No,Pune,Software Engineer,Medium
+59,77.4,1.51,85.8,No,Bangalore,Software Engineer,High
+21,67.5,1.62,4.8,No,Pune,Analyst,Medium
+71,59.7,1.72,2.2,No,Bangalore,Retired,Medium
+46,71.0,1.57,15.4,No,Hyderabad,Analyst,Medium
+60,63.9,1.63,3.4,No,Mumbai,Retired,Medium
+60,98.3,1.69,3.2,No,Mumbai,Retired,High
+61,59.9,1.84,0.0,Yes,Bangalore,Unemployed,High
+51,56.3,1.7,7.3,Yes,Mumbai,Product Manager,High
+60,63.2,1.72,3.6,Yes,Pune,Retired,High
+53,63.8,1.75,13.8,Yes,Delhi,Mechanical Engineer,High
+60,78.9,1.75,2.2,Yes,Bangalore,Retired,High
+60,40.1,1.7,1.5,No,Mumbai,Retired,Medium
+65,76.4,1.58,4.3,No,Bangalore,Retired,High
+32,61.9,1.78,0.0,No,Bangalore,Unemployed,Low
+25,81.7,1.74,0.0,No,Delhi,Unemployed,Medium
+31,69.3,1.59,12.9,No,Pune,Software Engineer,Medium
+40,77.8,1.63,0.0,No,Bangalore,Unemployed,Medium
+74,64.1,1.79,10.4,No,Mumbai,Mechanical Engineer,Medium
+57,76.6,1.76,24.8,No,Hyderabad,Mechanical Engineer,Medium
+38,95.0,1.63,0.0,No,Bangalore,Unemployed,Medium
+33,58.9,1.67,5.4,No,Bangalore,Analyst,Low
+62,68.4,1.69,4.7,No,Delhi,Product Manager,Medium
+35,62.7,1.76,0.0,No,Pune,Unemployed,Low
