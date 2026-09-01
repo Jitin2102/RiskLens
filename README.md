@@ -36,9 +36,6 @@ It's built for two audiences:
 
 ```
 RiskLens/
-├── README.md
-├── app.py                    # FastAPI backend, route definitions
-├── requirements.txt
 ├── config/
 │   └── city_tier.py          # city tier mapping / config values
 ├── model/
@@ -47,9 +44,12 @@ RiskLens/
 ├── schema/
 │   ├── user_input.py          # Pydantic input schema + computed_field logic
 │   └── response_model.py      # Pydantic response schema
-├── model.ipynb                # training and feature engineering notebook
-├── insurance.csv              # training dataset
-└── .gitignore
+├── .gitignore
+├── README.md
+├── app.py                    # FastAPI backend, route definitions
+├── insurance.csv
+├── requirements.txt              # training dataset
+└── train_model.py               # training and feature engineering notebook
 ```
 
 ## Running locally
